@@ -1,0 +1,21 @@
+  .Lessons {
+    font-size : 20px;  
+    text-align : center;
+    color : white;
+    background-color : black;
+    border-radius : 10px;
+  }
+  .Concept-Title {
+    text-align : left;
+    font-size : 18px;
+    font-style : italic;
+    color : black;
+    background-color : white;
+     }
+  .Content {
+    font-size : 12px;
+    text-align : center;
+    font-style : normal;
+    color : black;
+    background-color : white;
+  }
